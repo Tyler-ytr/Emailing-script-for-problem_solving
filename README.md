@@ -1,8 +1,12 @@
 ## 问求助教发邮件脚本
 
-#### Python依赖:yagmail
+#### Python依赖:
 
-使用方法:在批好的作业的文件夹使用python py_email.py即可
+yagmail
+
+#### 使用方法:
+
+在批好的作业的文件夹使用python py_email.py即可
 
 #### 大概的思路:
 
